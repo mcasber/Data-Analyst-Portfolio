@@ -37,8 +37,6 @@ Durante el desarrollo del proyecto, se lograron los siguientes puntos clave:
 *   **Identificación de Stock:** Se distinguió entre equipos en uso y equipos en stock, permitiendo un análisis separado del inventario.
 *   **Análisis de Procesadores:** Se extrajo y cuantificó la distribución de procesadores (i3, i5, i7, i9, M1, M2) en Workstations y Notebooks.
 
-_(Aquí puedes añadir visualizaciones clave si las exportas como imágenes PNG/JPG y las incluyes en una subcarpeta, por ejemplo, `img/` dentro de `Analisis_Activos_Empresa`. Luego las enlazas aquí.)_
-
 ## 💡 Conclusiones e Insights
 
 *   El proyecto demostró la capacidad de transformar datos brutos y desorganizados en una base de datos limpia y estructurada, lista para el análisis.
