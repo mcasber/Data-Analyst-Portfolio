@@ -25,7 +25,6 @@ Este proyecto se enfoca en el análisis exploratorio de datos (EDA) y la prepara
 
 *   `Analisis_Activos_Empresa.ipynb`: El cuaderno Jupyter con todo el código del ETL, EDA y análisis.
 *   `README.md`: Este archivo, con la descripción del proyecto.
-*   (Opcional) `data/`: Carpeta que contendría los datasets originales si fuesen públicos o anonimizados para el proyecto. (En este caso, los datos se cargan desde Google Drive y son privados, por lo que no se incluyen directamente aquí).
 
 ## 🔍 Análisis y Resultados Clave
 
