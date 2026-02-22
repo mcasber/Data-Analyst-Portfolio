@@ -18,7 +18,7 @@ Este proyecto se enfoca en el análisis exploratorio de datos (EDA) y la prepara
 *   **Pandas:** Para manipulación y análisis de datos.
 *   **Numpy:** Soporte para operaciones numéricas.
 *   **Matplotlib y Seaborn:** Para visualización de datos.
-*   **Google Colaboratory:** Entorno de desarrollo para Jupyter Notebooks.
+*   **Google Colab:** Entorno de desarrollo para Jupyter Notebooks.
 *   **Google Drive:** Almacenamiento de datos de origen.
 
 ## 📂 Estructura del Repositorio
