@@ -40,21 +40,16 @@ Durante el desarrollo del proyecto, se lograron los siguientes puntos clave:
 
 *   El proyecto demostró la capacidad de transformar datos brutos y desorganizados en una base de datos limpia y estructurada, lista para el análisis.
 *   Se identificó la distribución de activos por gerencia, lo cual es fundamental para la planificación de recursos.
-*   El análisis de RFID reveló el número y tipo de equipos que actualmente cuentan con esta tecnología, lo que puede informar decisiones sobre la implementación o expansión del sistema.
-*   El detalle sobre los procesadores de Workstations y Notebooks ofrece una instantánea del poder computacional disponible, útil para la gestión de hardware y futuras adquisiciones.
-
-## Próximos Pasos / Mejoras Potenciales
-
-*   Explorar métodos más avanzados para imputar valores nulos en `ubicación`, `gerencia` y `departamento` antes de la creación de `data_grupo`.
+*   El análisis de RFID reveló el número y tipo de equipos que actualmente cuentan con esta tecnología, y se recomendo colocarlo en los faltantes para cumplir con los porcedimientos de seguridad.
+*   El detalle sobre los procesadores de Workstations y Notebooks fue un dato que se tomo para evidenciar la falta de información en una gran parte de los equipos.
 *   Investigar los activos clasificados como 'OTROS' para intentar asignarles una categoría más específica o entender por qué quedan fuera de las clasificaciones actuales.
-*   Desarrollar un dashboard interactivo (ej. con Plotly, Dash o Power BI) para visualizar los resultados de forma dinámica.
-*   Realizar un análisis de ciclo de vida de los activos, si se dispone de datos de fechas de adquisición.
+*   Realizar un análisis de ciclo de vida de los activos, debido a que no se dispone de datos de fechas de adquisición se recomendo comenzar a incorporar este dato.
 
 ## 📧 Contacto
 
 Si tienes preguntas o te interesa mi trabajo, no dudes en contactarme:
 
-*   **Tu Nombre:** [Mariano Martin Castelli]
+*   **Tu Nombre:** Mariano Martin Castelli
 *   **LinkedIn:** [(https://www.linkedin.com/in/mariano-castelli-294520182/)]
 *   **Email:** [mcastelli2014@gmail.com]
 
